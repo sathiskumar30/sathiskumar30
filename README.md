@@ -14,8 +14,20 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="left">Hi 👋! My name is Sathis Kumar<br>🌐 I'm a Full Stack Developer transitioning into the exciting field of Cybersecurity.  <br><br>🚀 About Me  <br> 💻 I specialize in building secure and scalable web applications using technologies such as React, Redux, Express, and MySQL, along with libraries like Socket.io and MUI, while exploring advanced topics in Cybersecurity.  <br> 🔐 Currently diving into Cybersecurity through courses on Cybrary.  <br> 🌱 Completed foundational topics like  Networking and exploring advanced security concepts.  <br> 🎯 Passionate about protecting systems and solving challenges in the digital world.  <br><br>🛠️ Tools & Technologies  <br> 🌟 Full-Stack:  React, Redux , Node.js ,  Express , Socket.IO , Mysql , MongoDB.<br>🛡️ Cybersecurity: Networking Fundamentals, Threat Analysis (more coming soon!)  <br>🔍 Eager to expand my skillset in ethical hacking and security.</h3>
+Hi 👋! My name is **Sathis Kumar**  
+🌐 I'm a **Full Stack Developer** transitioning into the exciting field of **Cybersecurity**.  
 
+### 🚀 About Me  
+- 💻 Skilled in designing, developing, and deploying full-stack web applications, leveraging technologies such as **JavaScript**, **React**, **Node.js**, **Express**, and **MySQL**.  
+- 🔧 Experienced with libraries like **Socket.io** and **MUI** for building dynamic, real-time web applications and modern user interfaces.  
+- 🔐 Currently diving into **Cybersecurity**, exploring topics through **Cybrary**, with foundational knowledge in **Networking**.  
+- 🎯 Passionate about building secure, scalable systems and deepening my expertise in system security and ethical hacking.  
+
+### 🛠️ Tools & Technologies  
+- 🌟 Frontend: **React**, **Redux**, **MUI**, **HTML/CSS**  
+- 🔧 Backend: **Express**, **Node.js**, **Socket.io**  
+- 💾 Database: **MySQL**, **MongoDB**  
+- 🛡️ Cybersecurity: **Networking Fundamentals**, **Threat Analysis** (in progress)  
 ###
 
 <div align="left">
