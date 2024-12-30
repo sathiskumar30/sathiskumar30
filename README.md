@@ -69,7 +69,9 @@ Hi 👋! My name is **Sathis Kumar**
 </div>
 
 ###  🏆 Certifications  
-
+<a href="https://www.credly.com/badges/968c1bb9-091c-4ccb-a8fa-b688fcb3c971/public_url" target="_blank">
+  <img src="NetworkingBadge.png" alt="Certified Cybersecurity Specialist" width="100" />
+</a>
 
 ###
 
