@@ -68,6 +68,9 @@ Hi 👋! My name is **Sathis Kumar**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
 </div>
 
+###  🏆 Certifications  
+
+
 ###
 
 <div align="left">
