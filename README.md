@@ -24,7 +24,7 @@ Hi 👋! My name is **Sathis Kumar**
 - 🎯 Passionate about building secure, scalable systems and deepening my expertise in system security and ethical hacking.  
 
 ### 🛠️ Tools & Technologies  
-- 🌟 Frontend: **React**, **Redux**, **MUI**, **HTML/CSS**  
+- 🌟 Frontend: **React**, **Redux**, **MUI**, **Tailwind CSS** , **Framer Motion**
 - 🔧 Backend: **Express**, **Node.js**, **Socket.io**  
 - 💾 Database: **MySQL**, **MongoDB**  
 - 🛡️ Cybersecurity: **Networking Fundamentals**, **Threat Analysis** (in progress)  
