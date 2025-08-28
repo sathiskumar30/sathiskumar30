@@ -95,6 +95,4 @@ Hi 👋! My name is **Sathis Kumar**
 
 <br clear="both">
 
-###<img src="https://raw.githubusercontent.com/sathiskumar30/sathiskumar30/output/snake.svg" alt="Snake animation" />###
-
 ###
