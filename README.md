@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+transitioning into the exciting field of **Cybersecurity**.  
 -->
 
 
 Hi 👋! My name is **Sathis Kumar**  
-🌐 I'm a **Full Stack Developer** transitioning into the exciting field of **Cybersecurity**.  
+🌐 I'm a **Full Stack Developer** 
 
 ### 🚀 About Me  
 - 💻 Skilled in designing, developing, and deploying full-stack web applications, leveraging technologies such as **JavaScript**, **React**, **Node.js**, **Express**, and **MySQL**.  
